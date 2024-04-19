@@ -5,7 +5,7 @@
 	<h2 style="color: bule; font-size: 30px;" align="center">WELCOME TO FRONTLINES MEDIA</h2>
 	<h2 style="color: yellow; font-size: 30px;" align="center">THIS IS MANULA DEPLOYMENT</h2>
          <h2 style="color: purple; font-size: 30px;" align="center">THIS IS MANUAL DEPLOYMENT, Tulasi finally we deployed</h2>
-        <h2 style="color: blue; font-size: 30px;" align="center">Tulasi changes, War file is deployed and new version is also updated once commited changes</h2>
+        <h2 style="color: blue; font-size: 30px;" align="center">Tulasi changes chusava, War file is deployed and new version is also updated once commited changes</h2>
 	
 	
 	
